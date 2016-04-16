@@ -44,6 +44,10 @@ header {
 }
 
 .panel {
+    background-color: #fff;
+}
+
+.panel-profile {
     margin: -80px auto 0;
     background-color: #fff;
 }
@@ -56,3 +60,8 @@ header {
     text-align: center;
     
 {
+    
+.panel-works {
+    margin: 30px 0 10px 0;
+}
+
