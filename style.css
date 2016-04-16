@@ -42,3 +42,17 @@ header {
     text-shadow: 1px 1px 0px #000;
     letter-spacing: 0.10em;
 }
+
+.panel {
+    margin: -80px auto 0;
+    background-color: #fff;
+}
+
+.panel-heading h2 {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0.10em;
+    margin: 10px 0 5px 0;
+    text-align: center;
+    
+{
